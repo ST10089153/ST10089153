@@ -1,6 +1,6 @@
 # Charné Janse van Rensburg
 
-I'm a software engineer in South Africa. I did my BCA at Emeris University, and in 2026 I'm doing my Honours there. I like building things people actually use. I built Court Companion on my own as a freelancer for the National Bar Council of South Africa, and it has been on the App Store since March 2026.
+I'm a software engineer in South Africa. I did my BCA at Emeris University, and in 2026 I'm doing my Honours there. I like building things people actually use. I was the only developer on Court Companion, a freelance project for the National Bar Council of South Africa, and it has been on the App Store since March 2026.
 
 **Portfolio: [st10089153.github.io](https://st10089153.github.io)**
 
@@ -10,7 +10,7 @@ Most of the projects below started as coursework. I've moved the best of them to
 
 | Project | What it is | Built with |
 |---|---|---|
-| [Court Companion](https://github.com/ST10089153/court-companion-2025-2026) | Built on my own for the National Bar Council of South Africa: connects advocates with the law students who want to watch them in court. [Live on the App Store](https://apps.apple.com/za/app/court-companion/id6758733477). | React Native, Expo, Firebase |
+| [Court Companion](https://github.com/ST10089153/court-companion-2025-2026) | Freelance project for the National Bar Council of South Africa, where I was the only developer. Connects advocates with the law students who want to watch them in court. [Live on the App Store](https://apps.apple.com/za/app/court-companion/id6758733477). | React Native, Expo, Firebase |
 | [SkillPath](https://github.com/ST10089153/Skillpath-2026) | Reads a graduate's CV, recommends the one skill worth learning next and teaches it in six short steps. My Honours project, with a [live demo](https://skillpath-demo.onrender.com). | Python, FastAPI, React Native, Docker |
 | [Secure payments portal](https://github.com/ST10089153/secure-payments-portal-2025) | Banking portal for international SWIFT payments, where most of the code is about keeping attackers out. Team of three. | React, Node.js, Express, MongoDB |
 | [TMS for TxDev Systems](https://github.com/ST10089153/txdev-tms-app-2025) | Android app for watching TxDev Systems' IoT temperature sensors: live gauges, history charts, reports and push alerts. TxDev came to our team of six with a brief, and we built it free of charge. TxDev's customers use it. | Kotlin, Retrofit, Firebase Cloud Messaging |
